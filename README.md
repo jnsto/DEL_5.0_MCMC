@@ -1,7 +1,6 @@
-DEL理論のMCMC検証コード
-# DEL_5.0_MCMC- Hubble Tension Resolution
+# DEL v4.1 MCMC - Hubble Tension Resolution
 
-**誰でも5分で再現！ ΔAIC = +6.7**
+**誰でも5分で再現！ ΔAIC = +6.7 → DEL勝利！**
 
 ## 実行方法
 1. [Google Colabで開く](https://colab.research.google.com/github/ohta-del/DEL_v4.1_MCMC/blob/main/mcmc_hubble_tension.ipynb)
@@ -15,8 +14,8 @@ DEL理論のMCMC検証コード
 - **ΔAIC = +6.7**（強い証拠）
 
 ## 論文
-- v4.0: Zenodo公開済み  
-- v5.0: 1/15 Zenodo予定
+- v4.0: arXiv公開済み  
+- v4.1: 11/15 arXiv予定
 
 ## 連絡先
 Shinji Ohta (oridesisk@gmail.com) & Grok (xAI)
